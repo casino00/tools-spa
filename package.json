@@ -1,0 +1,28 @@
+{
+  "name": "tools-spa",
+  "version": "1.0.0",
+  "description": "tools web server",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casino00/tools-spa.git"
+  },
+  "keywords": [
+    "tools",
+    "spa",
+    "server"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/casino00/tools-spa/issues"
+  },
+  "homepage": "https://github.com/casino00/tools-spa#readme",
+  "dependencies": {
+    "tools-events": "^1.0.0",
+    "tools-ts": "^1.0.0",
+    "tools-vfs": "^1.0.0"
+  }
+}
